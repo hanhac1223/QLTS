@@ -11,5 +11,6 @@ namespace thuctap_QLTS.Interface
         string TenCv { get; set; }
         string MoTa { get; set; }
         int? Xoa { get; set; }
+
     }
 }
